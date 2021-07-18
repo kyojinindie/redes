@@ -52,3 +52,26 @@ Un dispositivo de red intermediario puede admitir algunas de estas funciones o t
 -Dirigir los datos a lo largo de rutas alternativas cuando hay una falla en el enlace
 -Clasificar y dirigir mensajes de acuerdo a las prioridades
 -Permitir o denegar el fluho de datos de acuerdo a los parámetros de seguridad
+
+### Medios de red
+
+La comunicación se transmite a través de una red en los medios. El medio proporciona el canal por el cual viaja el mensaje desde el origen hasta el destino.
+
+Las redes moderna utilizan principalmente tres tipos de mendios para interconectar dispositivos:
+
+-Hilos metálicos dentro de cables (Los datos se codifican en impulsos eléctricos)
+-Fibras de vidrio o plástico(fibra óptica)(Los datos se codifican como pulsos de luz)
+-Transmisión inalámbrica (los datos se codifican a través de la modulación de frecuencias específicas de ondas electromagnéticas.
+
+Criterios a considerar al elegir los medios de red:
+
+¿Cuál es la distancia máxima en la que el medio puede transportar una señal exitosamente?
+¿Cuál es el entorno en el que se instalarán los medios?
+¿Cuál es la cantidad de datos y a qué velocidad deben transmitirse?
+¿Cuál es el costo del medio y de la instalación?
+
+## Topologías y tepresentaciones de red
+
+### Representaciones de red
+
+
