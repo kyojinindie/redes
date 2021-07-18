@@ -98,3 +98,15 @@ Los diagramas de topología física ilustran la ubicación física de los dispos
 
 Los diagramas de topología lógica ilustran los dispositivos, los puertos y el esquema de direccionamiento de la red.
 
+## Tipos comunes de redes
+
+### Redes de muchos tamaños
+
+Hay redes de todo tamaño. Pueden ir desde redes simples, compuestas por dos PC, hasta redes que conectan millones de dispositivos.
+
+Las redes domésticas sencillas le permiten compartir recursos, como impresora, documentos, imágenes y música, entre unos pocos dispositivos finales locales.
+
+Las redes de oficinas pequeñas y oficinas domésticas (SOHO) permiten a las personas trabajar desde casa o desde una oficina remota. Muchos trabajadores independientes utilizan este tipo de redes para anunciar y vender productos,, pedir suministros y comuniucarse con los clientes.
+
+Las empresas y las grandes organizaciones usan redes para proporcionar consolidación, almacenamiento y acceso a la información en los servidores de red. Las redes proporcionan correo electrónoico, mensajería instantánea y colaboración entre empleados. Muchas organizaciones usan la conexión de su red a Internet para proporcionar productos y servicios a los clientes.
+
