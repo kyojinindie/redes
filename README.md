@@ -74,4 +74,14 @@ Criterios a considerar al elegir los medios de red:
 
 ### Representaciones de red
 
+Los arquitectos y administradores de redes deben poder mostrar el aspecto que tendrán sus redes. Necesita poder ver fácilmente qué componentes se conectan a otros componente, dónde se ubicarán y cómo se conectarán. Los diagramas de redes a menudo usan símbolos, para representar los diferentes dispositivos y conexiones que forman una red.
 
+Un diagrama proporciona una manera fácil de comprender cómo se conectan los dispositivos en una red grande. Este tipo de representación de una red se denomina diagrama de topología. La capacidad de reconocer las representaciones lógicas de los componente físicos de red es fundamental para poder visualizar la organización y el funcionamietno de un red.
+
+Además de estas representaciones, se utiliza una teminología especializada para describvir cómo uno de estos dispositivos y medios se coectan entre sí:
+
+-Tarjeta de interfaz de red(Network Interface Card)(NIC)- Una NIC conecta físicamente el dispositivo fina a la red
+-Puerto fsico - Un conector o conexión en un dispositivo de red donde se conecta los medios a una terminal u otro dispositico de red.
+-Interfaz - Puetos especializados en un dispositivo de red que se conecta a redes individuales. Debido a que los routers conectan redes, los puertos en un router se denominan interfaces de red.
+
+Nota: Los tperminos  puerto e interfaz con frecuencia se utilizan en forma indistinta.
