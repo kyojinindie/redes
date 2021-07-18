@@ -85,3 +85,16 @@ Además de estas representaciones, se utiliza una teminología especializada par
 -Interfaz - Puetos especializados en un dispositivo de red que se conecta a redes individuales. Debido a que los routers conectan redes, los puertos en un router se denominan interfaces de red.
 
 Nota: Los tperminos  puerto e interfaz con frecuencia se utilizan en forma indistinta.
+
+### Diagrama de topología
+
+Los diagramas de topología son documentación obligatoria para cualquier persona que trabaje con una red. Estos diagramas proporcionan un mapa visual que muestra cómo está conectada la red. Hay dos tipos de diagramas de topología, físicos y lógicos.
+
+#### Diagram de topologías físicas
+
+Los diagramas de topología física ilustran la ubicación física de los dispositivos intemedios y la intalación del cable.
+
+#### Diagrama de topologías lógicas
+
+Los diagramas de topología lógica ilustran los dispositivos, los puertos y el esquema de direccionamiento de la red.
+
