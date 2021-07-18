@@ -11,3 +11,29 @@ Todas las computaforas que están conectadas a una red y participan directamente
 Los servidores son computadoras con software que les permite proporcionar información, como correo electrónico o páginas web, aotros dispositicos finales de la red. Cada servicio reqiere un software de servidor independiente. Por enemplo, para proporcionar servicios wwb a la red, un servidor requiere un softwaea de servidor wev. Una computadora con software de servidor puede proporcionar servicios simultáneamente a muchos clientes diferentes.
 
 Como se mencionó anteriormente, los clientes son un tipo de host. Los clientes disponen de sofrware para solicitar y mostrar la información obtenida del servidor.
+
+Un navegador web, como Chrome oFirefox, es un ejemplo de software de cliente. Una única PC también puede ejecutar varios tipos de software de cliente. Por ejemplo, un usuario puede consultar el correo electrónico y ver un página web mientras envía mensajes instantáneos y escucha una transmisión de audio.
+
+### Entre pares
+
+El software de cliente y servidor generalmente se ejecuta en computadoras separadas, pero también es posible usar una computafora para ambos roles al mismo tiempo. En pequeñas empresas y hogares, muchas PC funcionan como servidores y clientes en la red. Este tipo de red se denomina red entre pares.
+
+Las ventajas de las redes entre pares:
+
+-Fácil de configurar
+-Menos complejo
+-Menor costo porque es posible que no se necesiten dispositivos de red ni servidores dedicados.
+-Se pueden utilizar para tareas sencills como transferir archivos y compartir impresoras
+
+Las desventajas de las redes entre pares:
+
+-La administración no está centralizada
+-No son tan seguras
+-No son escalables
+-Todos los dispositivos pueden funcionar como clientes y como servidores, lo que puede lentificar el rendimineto
+
+### Dispositivos finales
+
+Los dispositivos de red con los que las personas están más familiarizadas se denominan dispositivos finales. Para distinguir un dispositivo final de otro, cada dispositivo final de una red tiene una dirección. Cuando un dispositivo final inicia la comunicación, utiliza la dirección del dispositivo final de destino para especificar dónde entregar el mensaje.
+
+Un terminal es el origen o el destino de un mensaje transmitido a través de la red.
