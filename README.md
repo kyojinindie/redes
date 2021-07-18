@@ -37,3 +37,18 @@ Las desventajas de las redes entre pares:
 Los dispositivos de red con los que las personas están más familiarizadas se denominan dispositivos finales. Para distinguir un dispositivo final de otro, cada dispositivo final de una red tiene una dirección. Cuando un dispositivo final inicia la comunicación, utiliza la dirección del dispositivo final de destino para especificar dónde entregar el mensaje.
 
 Un terminal es el origen o el destino de un mensaje transmitido a través de la red.
+
+### Dispositivos intermediarios
+
+Los dispositivos intermedios conectan los dispositivos finales individuales a la red. Pueden conectar múltiples redes individuales para formar un red interna. Los dispositivos intermedios proporcionan conectividad y garantizan el flujo de datos en toda la red.
+
+Los dispositivos intermedios usa la dirección sel dispositivo final de destino, junto con información sobre las interconexiones de la red, para determinar la ruta que los mensajes deben tomar a través de la red.
+
+Un dispositivo de red intermediario puede admitir algunas de estas funciones o todas ellas:
+
+-Tegenerar y retransmitir señales de comunicación
+-Conservar información acerca de las rutas que existen através de la red y de internetwork
+-Notificar a otros dispositivos los errores y las fallas de comunicación
+-Dirigir los datos a lo largo de rutas alternativas cuando hay una falla en el enlace
+-Clasificar y dirigir mensajes de acuerdo a las prioridades
+-Permitir o denegar el fluho de datos de acuerdo a los parámetros de seguridad
