@@ -138,3 +138,15 @@ Las WANs tienen características específicas:
 -Las WAN inteconectan LAN a través de áreas geográficas extensas, por ejemplo , entre ciudades, estados, provincias, países o continentes.
 -Por lo general, la administración de las WAN está a cargo de varios proveedores de servicios.
 Normalmente, las WAN proporcionan enlaces de velocidad más lenta entre redes LAN.
+
+### Internet
+
+Internet es una colección global de redes interconectadas.
+
+### Intranets y Extranets
+
+Hay otros dos términos que son similares al término internet: intranet y extranet
+
+El término intranet se utiliza para referirse a la conexión privada de LAN y WAN que pertenecen a una organización. Una intranet está diseñada para que solo puedan accedar a ella los miembros y empleados de la organización, u otras personas autorizadas.
+
+Es posibler que una organización utilice una extranet para proporcionar acceso seguro a las personas que trabajan para otra organización, pero requieren datos de la empresa. 
