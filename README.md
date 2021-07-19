@@ -150,3 +150,4 @@ Hay otros dos términos que son similares al término internet: intranet y extra
 El término intranet se utiliza para referirse a la conexión privada de LAN y WAN que pertenecen a una organización. Una intranet está diseñada para que solo puedan accedar a ella los miembros y empleados de la organización, u otras personas autorizadas.
 
 Es posibler que una organización utilice una extranet para proporcionar acceso seguro a las personas que trabajan para otra organización, pero requieren datos de la empresa. 
+
