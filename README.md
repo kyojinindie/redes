@@ -110,3 +110,31 @@ Las redes de oficinas pequeñas y oficinas domésticas (SOHO) permiten a las per
 
 Las empresas y las grandes organizaciones usan redes para proporcionar consolidación, almacenamiento y acceso a la información en los servidores de red. Las redes proporcionan correo electrónoico, mensajería instantánea y colaboración entre empleados. Muchas organizaciones usan la conexión de su red a Internet para proporcionar productos y servicios a los clientes.
 
+### LAN y WAN
+
+Las infraestructuras de red pueden variar en gran medida en tperminos de:
+
+-El tamaño del área que abarcan.
+-La cantidad de usuarios conectados.
+-La cantidad y los tipos de servicios disponibles.
+-El área de responsabilidad
+
+Los dos tipos más comunes de infraestructuras de red son las redes de área lovall (LAN) y las redes de área amplia (WAN). Una LAN es una infraestructura de red que proporciona acceso a usuarios y dispositivos finales en un área geográfica pequeña. Normalmente, una LAN se utiliza en un departamento dentro de una empresa, un hogar o una red de pequeñas empresas. Una WAN es una infraestructura de red que proporciona acceso a otras redes en un áres geográfica amplia, que generalmente es propiedad y estpá administrada por una corporación más grande o un proveedor de servicios de telecomunicaciones.
+
+#### LAN
+
+Una LAN es una infraestructura de la red que abarca un área geográfica pequeña. Las LANs tiene caracteristicas especícficas:
+
+-Las LANs inteconectan termminales en un área limitada, comouna cas,un lugar de estudios, un edificiode oficinas o un campus.
+-Por lo general, la administración de las LAN esyá a cargo de una única organización o persona. El control administrativo se aploca a nivel de red y rige las políticas de seguridad y control de acceso.
+-Las LANs proporcionan ancho de banda de alta velocidad a dispositivos finales internos y dispositivos intermedios.
+
+#### WAN
+
+Una WAN es un infraestructura de la red que abarca un área geográfica extensa. Las WAN generalmente son administradas por proveedores de servicios o proveedores de servicios de internet
+
+Las WANs tienen características específicas:
+
+-Las WAN inteconectan LAN a través de áreas geográficas extensas, por ejemplo , entre ciudades, estados, provincias, países o continentes.
+-Por lo general, la administración de las WAN está a cargo de varios proveedores de servicios.
+Normalmente, las WAN proporcionan enlaces de velocidad más lenta entre redes LAN.
